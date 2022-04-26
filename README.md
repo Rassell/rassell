@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SCRM Lidl
-- 🌱 I’m currently learning Blockchain, svelte, GCP!
+- 🌱 I’m currently learning Blockchain, svelte, GCP & kubernetes!
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: https://twitter.com/aresgonza
 - ⚡ Fun fact: Trying to learn how to paint warhammer!
